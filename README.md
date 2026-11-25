@@ -1317,4 +1317,4 @@ Link: https://www.relay.fm/clockwise
 Link: https://atp.fm/
 
 - "The Vergecast" - Hosted by Nilay Patel and Dieter Bohn, this podcast covers the latest tech news, with a focus on consumer electronics and technology products.
-Link: https://www.theverge.com/the-vergecast
+- Link: https://www.theverge.com/the-vergecast
