@@ -578,6 +578,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :green_book: [Write a Flutter desktop application](https://codelabs.developers.google.com/codelabs/flutter-github-graphql-client/#0)
 - :video_camera: [Flutter Bloc Complete Course](https://www.youtube.com/watch?v=THCkkQ-V1-8)
 - :video_camera: [Flutter Bloc - from Zero To HERO](https://www.youtube.com/playlist?list=PLptHs0ZDJKt_T-oNj_6Q98v-tBnVf-S_o)
+- :books: [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides, including a Flutter vs Native guide
 
 ---
 
@@ -1203,6 +1204,7 @@ Throughout this list you'll see next to each resource and emoji. Here's what eac
 - :video_camera: [Frontend with HTML CSS JS & Browser APIs](https://youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC)
 - :bulb: [Frontendmentor.io Design To Code Frontend Challenges](https://www.frontendmentor.io)
 - :bulb: [Codewell.cc Design To Code Frontend Challenges](https://www.codewell.cc)
+- :books: [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides
 
 ---
 
